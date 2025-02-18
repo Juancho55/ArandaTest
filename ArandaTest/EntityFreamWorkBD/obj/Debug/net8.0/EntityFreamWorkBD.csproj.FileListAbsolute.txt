@@ -1,0 +1,14 @@
+C:\Projects\ArandaTest\ArandaTest\EntityFreamWorkBD\bin\Debug\net8.0\EntityFreamWorkBD.deps.json
+C:\Projects\ArandaTest\ArandaTest\EntityFreamWorkBD\bin\Debug\net8.0\EntityFreamWorkBD.runtimeconfig.json
+C:\Projects\ArandaTest\ArandaTest\EntityFreamWorkBD\bin\Debug\net8.0\EntityFreamWorkBD.dll
+C:\Projects\ArandaTest\ArandaTest\EntityFreamWorkBD\bin\Debug\net8.0\EntityFreamWorkBD.pdb
+C:\Projects\ArandaTest\ArandaTest\EntityFreamWorkBD\obj\Debug\net8.0\EntityFreamWorkBD.csproj.AssemblyReference.cache
+C:\Projects\ArandaTest\ArandaTest\EntityFreamWorkBD\obj\Debug\net8.0\EntityFreamWorkBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ArandaTest\ArandaTest\EntityFreamWorkBD\obj\Debug\net8.0\EntityFreamWorkBD.AssemblyInfoInputs.cache
+C:\Projects\ArandaTest\ArandaTest\EntityFreamWorkBD\obj\Debug\net8.0\EntityFreamWorkBD.AssemblyInfo.cs
+C:\Projects\ArandaTest\ArandaTest\EntityFreamWorkBD\obj\Debug\net8.0\EntityFreamWorkBD.csproj.CoreCompileInputs.cache
+C:\Projects\ArandaTest\ArandaTest\EntityFreamWorkBD\obj\Debug\net8.0\EntityFreamWorkBD.dll
+C:\Projects\ArandaTest\ArandaTest\EntityFreamWorkBD\obj\Debug\net8.0\refint\EntityFreamWorkBD.dll
+C:\Projects\ArandaTest\ArandaTest\EntityFreamWorkBD\obj\Debug\net8.0\EntityFreamWorkBD.pdb
+C:\Projects\ArandaTest\ArandaTest\EntityFreamWorkBD\obj\Debug\net8.0\EntityFreamWorkBD.genruntimeconfig.cache
+C:\Projects\ArandaTest\ArandaTest\EntityFreamWorkBD\obj\Debug\net8.0\ref\EntityFreamWorkBD.dll
